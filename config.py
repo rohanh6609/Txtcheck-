@@ -6,4 +6,5 @@ import os
 
 class Config(object):
     # get a token from @BotFather
-    BOT_TOKEN = os.environ.get("
+BOT_TOKEN = os.environ.get("YOUR_BOT_TOKEN")
+
